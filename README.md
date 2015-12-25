@@ -1,7 +1,7 @@
 Quadric's EasySearch-Elasticsearch
 =====================
 
-**Note**: This package is a fork of the `easysearch:elasticsearch` package with changes to make it compatible with Elasticsearch 2.1+.
+**Note**: This package is a fork of the [easysearch:elasticsearch](https://github.com/matteodem/meteor-easy-search/tree/master/packages/easysearch:elasticsearch) package with changes to make it compatible with Elasticsearch 2.1+.
 
 This package adds an `EasySearch.ElasticSearch` engine to EasySearch. EasySearch synchronizes documents to an index called
 __easysearch__, with types based on the collection name.
